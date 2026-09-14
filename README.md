@@ -164,3 +164,4 @@ DELETE FROM vendas;
 
 Recarregue a aba Dashboard: em vez de quebrar ou mostrar `NaN`, o sistema
 exibirá a mensagem "Nenhum dado registrado."
+# balestras_cia_projeto
